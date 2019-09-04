@@ -3,7 +3,7 @@
 <html lang="ru">
 <head>
   <meta charset="utf-8" />
-  <title>Форма авторизации</title>
+  <title>Р¤РѕСЂРјР° Р°РІС‚РѕСЂРёР·Р°С†РёРё</title>
 <head>
   <script type="text/javascript" src="./js/jquery.js"></script>
   <script type="text/javascript" src="./js/ajax.js"></script>
@@ -17,7 +17,7 @@
       <tr><td>login</td><td><input type="text" id="login"></td></tr>
       <tr><td>password</td><td><input type="text" id="password"></td></tr>
     </table>
-    <input type="submit" value="Вход" id="send_data" />
+    <input type="submit" value="Р’С…РѕРґ" id="send_data" />
   </form>
 <? } ?>
 </body>
