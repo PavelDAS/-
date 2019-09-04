@@ -1,0 +1,9 @@
+.label_desc {
+  display: block;
+}
+.error {
+  display: none;
+}
+.error_input {
+  border: 1px solid #FF0000; 
+}
