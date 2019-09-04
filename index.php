@@ -1,19 +1,19 @@
 <? session_start();
-setcookie("PHPSESSID", "", time()+60);  /* срок действия */
+setcookie("PHPSESSID", "", time()+60);  /* СЃСЂРѕРє РґРµР№СЃС‚РІРёСЏ */
 
  ?>
 <!doctype html>
 <html lang="ru">
 <head>
   <meta charset="utf-8" />
-  <title>Главная</title>
+  <title>Р“Р»Р°РІРЅР°СЏ</title>
 <head>
   <script type="text/javascript" src="./js/jquery.js"></script>
   <link rel="stylesheet" type="text/css" href="./css/style.css" >
 </head>
 <body>
     <table border="1">
-      <tr><td><a href="reg.php">Регистрация</a></td><td><a href="aut.php">Вход</a></td></tr>
+      <tr><td><a href="reg.php">Р РµРіРёСЃС‚СЂР°С†РёСЏ</a></td><td><a href="aut.php">Р’С…РѕРґ</a></td></tr>
     </table>
 </body>
 </html>
